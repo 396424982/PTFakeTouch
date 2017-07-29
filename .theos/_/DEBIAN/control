@@ -1,0 +1,10 @@
+Package: com.yourcompany.faketouch
+Name: FakeTouch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Flying
+Author: Flying
+Section: Tweaks
+Version: 0.0.1-54
+Installed-Size: 128
